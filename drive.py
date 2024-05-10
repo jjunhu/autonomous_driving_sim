@@ -19,7 +19,7 @@ speed_data = []
 time_data = []
 start_time = None
 plot_saved = False  # A flag to ensure the graph is saved only once
-model_name = 'track2'
+model_name = 'two_tracks_with_data_aug_no_drop_out'
 
 def img_preprocess(img):
     img = img[60:135,:,:]
