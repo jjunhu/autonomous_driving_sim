@@ -1,5 +1,7 @@
 # autonomous_driving_sim
 
+[Paper Link]([https://github.com/udacity/self-driving-car-sim](https://jjunhu.github.io/autonomous_driving_sim/CarSim.pdf))
+
 ![alt text](https://cdn.dribbble.com/users/1815/screenshots/2589016/car_dr.gif)
 
 
